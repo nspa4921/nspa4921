@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @nspa4921
-- 👀 I’m interested in creating and developing modern highly responsive web-based user interfaces and build reusable components and front-end libraries for future use.
-- 🌱 I’m currently learning React and React-Native
+- 👋 Hi, I’m Nemanja (@nspa4921) 
+- 🌱 I’m a passionate Frontend developer, with more than 10 years of experience in creating and developing user-friendly websites and hybrid mobile applications with React Native. 
 - 📫 if you have any questions, do not hesitate to contact me! 
 
 <!---
